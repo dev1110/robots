@@ -18,7 +18,6 @@ You'll need Git and Node.js (which comes with NPM) installed on your computer.
   npm@6.9.0 or higher <br/>
   git@2.17.1 or higher <br/>
 <code/>
-  <br/>
 # How To Use 🔧
 From your command line, first clone Simplefolio:
 
