@@ -50,10 +50,7 @@ Once you have done with your setup. You need to put your website online!
 -React Js
 
 # Authors
-Lata -[https://github.com/lata-clabs]
-
-# Status
-Netlify Status
+[Lata](https://github.com/lata-clabs)
 
 # License 📄
 This project is licensed under the MIT License - see the LICENSE.md file for details
