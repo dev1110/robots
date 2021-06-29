@@ -13,31 +13,50 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites 📋
 You'll need Git and Node.js (which comes with NPM) installed on your computer.
-<code>
-  node@v10.16.0 or higher <br/>
-  npm@6.9.0 or higher <br/>
-  git@2.17.1 or higher <br/>
-<code/>
-  <br/>
+```
+  node@v10.16.0 or higher
+  npm@6.9.0 or higher
+  git@2.17.1 or higher
+```
 # How To Use 🔧
-From your command line, first clone Simplefolio:
+From your command line, first clone Robots:
 
+```
 # Clone this repository
-$ git clone https://github.com/cobidev/simplefolio
+$ git clone https://github.com/lata-clabs/robots
 
 # Go into the repository
-$ cd simplefolio
+$ cd robots
 
 # Remove current origin repository
 $ git remote remove origin
-Then you can install the dependencies either using NPM or Yarn:
+```
+Then you can install the dependencies either using NPM:
 
-Using NPM:
+```
+# Install dependencies
+$ npm install
 
-<code># Install dependencies
-$ npm install<code/>
-
-<code># Start development server
-$ npm start<code/>
+# Start development server
+$ npm start
+```
 
 Once your server has started, go to this url http://localhost:8080/ and you will see the website running on a Development Server:
+
+# Deployment 📦
+Once you have done with your setup. You need to put your website online!
+
+# Technologies used 🛠️
+-React Js
+
+# Authors
+Lata -[https://github.com/lata-clabs]
+
+# Status
+Netlify Status
+
+# License 📄
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+# Acknowledgments 🎁
+I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to ZTM Community and Andrei
