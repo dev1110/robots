@@ -34,7 +34,7 @@ class App extends Component {
       :
       (
         <div className="App App-Header">
-          <h1 className= "green">RoboFriends</h1>
+          <h1 className= "f1">Robots</h1>
           <SearchBox searchChange = {this.onSearchChange}/>
           <Scroll>
             <ErrorBoundry>
